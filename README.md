@@ -9,6 +9,8 @@ Moosic is a next-generation music streaming platform built around one simple ide
 
 Inspired by traditional music streaming services, we've reimagined the way people discover and enjoy music through AI-powered personalization, expressive customization, and a user-first approach. From intelligent playlist creation to customizable themes, every feature is designed to make listening more personal, effortless, and enjoyable.
 
+my first change nhhmhmj
+dgrbggrbgr
 ---
 
 # Why Moosic?
